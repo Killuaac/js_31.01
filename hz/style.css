@@ -1,0 +1,33 @@
+.alert{
+    position: absolute;
+    padding: 15px;
+    border: 1px solid #d6e9c6;
+    border-radius: 4px;
+    color: black;
+    background-color: whitesmoke;
+    text-align: center;
+    left: 40%;
+}
+
+.new{
+    background-color: lime;
+}
+
+.card{
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 4px;
+    color: green;
+    text-align: center;
+    font-size: 16px;
+    text-align: left;
+}
+
+.list{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+}
